@@ -1,5 +1,5 @@
 {
-  "name": "salvando-el-semestre",
+  "name": "example",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,17 +8,15 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "firebase": "^7.16.1",
+    "firebase": "^7.17.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vue-textarea-autosize": "^1.1.1",
-    "vuetify": "^2.3.4",
-    "vuex": "^3.4.0"
+    "vuetify": "^2.2.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-router": "~4.4.0",
-    "@vue/cli-plugin-vuex": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",

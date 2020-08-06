@@ -1,4 +1,4 @@
-# salvando-el-semestre
+# example
 
 ## Project setup
 ```
