@@ -1,19 +1,22 @@
-# example
+# Salvando el Semestre
+**Actualmente en desarrollo**
 
-## Project setup
-```
-npm install
-```
+Una aplicación web diseñada para universitarios y estudiantes que deseen guardar sus notas y saber la nota mínima que se deben sacar en su examen o trabajo final para aprobar el curso.
 
-### Compiles and hot-reloads for development
+## Requisitos
+- Instalar Node.js
+- Instalar Vue.js
+- Vue CLI (recomendado)
+
+### Probar el proyecto en local con NPM
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Desplegar en producción 
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Referencia
+See [Sitio oficial de Vue cli](https://cli.vuejs.org/config/).
